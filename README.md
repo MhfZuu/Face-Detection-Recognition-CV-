@@ -21,7 +21,7 @@ Untuk memulai dan menjalankan program deteksi dan rekognisi wajah, ikuti langkah
 
 3.  **Ekstrak Dataset**
 
-    Ekstrak file `archive.zip`, yang berisikan dataset yang akan digunakan. Setelah ekstraksi, pastikan folder `image` muncul di dalam folder proyek.
+    Ekstrak file `archive.zip`, yang berisikan dataset yang akan digunakan. Setelah ekstraksi, pastikan folder `images` muncul di dalam folder proyek.
 
 4.  **Siapkan Virtual Environment**
 
